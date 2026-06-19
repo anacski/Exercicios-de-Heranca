@@ -1,0 +1,15 @@
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Arquivos compilados Java
+bin/
+*.class
+
+# Logs
+*.log
+
+# Sistema Windows
+Thumbs.db
+Desktop.ini
